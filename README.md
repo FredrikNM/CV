@@ -1,2 +1,2 @@
 # CV
-Last ned CV.pdf og helst bruke Adobe til å åpne den hvis du har det
+Last ned CV.pdf og bruk helst Adobe til å åpne filen
